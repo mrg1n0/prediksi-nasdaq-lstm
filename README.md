@@ -1,7 +1,10 @@
 # prediksi-nasdaq-lstm
-prediksi seluruh saham yang ada di indeks nasdaq menggunakan 5 parameter dan menggunakan framework streamlit python
+prediksi seluruh saham yang ada di indeks nasdaq menggunakan Long Short Term Memory (LSTM) dengan 5 parameter dan menggunakan framework streamlit python
 
-sebelum run code ini kalian harus :
+# revisi.py = code prediksi indeks nasdaq menggunakan LSTM
+# revisi.sql = Database yang berisi tabel user dan tabel hasil prediksi
+
+# sebelum run code ini kalian harus :
 1. install python di laptop kalian
 2. install framework streamlit
 3. setelah itu install semua library berikut : (install menggunakan cmd saja caranya sangat mudah dan simple & untuk caranya tanya Chat GPT saja)
