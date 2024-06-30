@@ -21,4 +21,4 @@ sebelum run code ini kalian harus :
    - from PIL import Image
 4. Import Database Mysql 
 5. signup/login dengan username = 'raihan' dan password '12345678'
-6. selesai - jika ada yang ditanyakan hubungi WhatsApp : 085156603730 or Instagram : raihanorf
+6. selesai - jika ada yang ditanyakan hubungi WhatsApp : 085156603730 or Instagram : @raihanorf
