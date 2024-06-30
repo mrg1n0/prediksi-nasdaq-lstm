@@ -22,6 +22,6 @@ prediksi seluruh saham yang ada di indeks nasdaq menggunakan Long Short Term Mem
    - import mysql.connector
    - import bcrypt
    - from PIL import Image
-4. Import Database Mysql 
+4. Import Database Mysql revisi.sql
 5. signup/login dengan username = 'raihan' dan password '12345678'
 6. selesai - jika ada yang ditanyakan hubungi Instagram : @raihanorf
