@@ -1,8 +1,8 @@
 # prediksi-nasdaq-lstm
 prediksi seluruh saham yang ada di indeks nasdaq menggunakan Long Short Term Memory (LSTM) dengan 5 parameter dan menggunakan framework streamlit python
 
-# revisi.py = code prediksi indeks nasdaq menggunakan LSTM
-# revisi.sql = Database yang berisi tabel user dan tabel hasil prediksi
+revisi.py = code prediksi indeks nasdaq menggunakan LSTM
+revisi.sql = Database yang berisi tabel user dan tabel hasil prediksi
 
 # sebelum run code ini kalian harus :
 1. install python di laptop kalian
